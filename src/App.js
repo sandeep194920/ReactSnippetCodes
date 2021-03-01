@@ -1,11 +1,11 @@
 
 import './App.css';
-import BasicSearchWithoutEffect from './Features/Search/BasicSearchWithoutEffect';
+import BasicSearchWithEffect from './Features/Search/BasicSearchWithEffect';
 
 function App() {
   return (
     <div className="App">
-      <BasicSearchWithoutEffect />
+      <BasicSearchWithEffect />
     </div>
   );
 }
